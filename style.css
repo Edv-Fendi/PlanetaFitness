@@ -409,6 +409,7 @@ nav.show div.icon-close {
   display: flex;
   align-items: center;
   font-style: normal;
+
 }
 
 #testimonials cite img {
@@ -417,7 +418,16 @@ nav.show div.icon-close {
   object-fit: cover;
   clip-path: circle();
   margin-right: 0.5rem;
+  
 }
+
+ cite {
+  display: flex;
+
+  
+}
+
+
 
 /*====  Funcionarios ============================ */
 #funcionarios {
@@ -465,9 +475,11 @@ nav.show div.icon-close {
 }
 
 #funcionarios cite {
+  display: flex;
   align-items: center;
   font-style: normal;
-  justify-content: space-between;
+  
+  
 }
 
 footer .social {
