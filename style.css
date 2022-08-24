@@ -421,11 +421,6 @@ nav.show div.icon-close {
   
 }
 
- cite {
-  display: flex;
-
-  
-}
 
 
 
@@ -478,8 +473,7 @@ nav.show div.icon-close {
   display: flex;
   align-items: center;
   font-style: normal;
-  
-  
+
 }
 
 footer .social {
